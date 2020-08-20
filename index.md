@@ -38,17 +38,23 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 ### Agustín González Reymúndez
 
+<img src="images/team/agustín-gonzález-reymúndez.jpg">
+
 - Title: PhD Student
 - Email: agugonrey@gmail.com
 - Areas of Interest: Genomic tools for QTL mapping and genomic prediction, with applications in human genetics and plant breeding
 
 ### Alexa Lupi
 
+<img src="images/team/alexa-lupi.jpg">
+
 - Title: PhD Student
 - Email: lupialex@msu.edu
 - Areas of Interest: Biostatistics, Statistical Genetics, Epidemiology
 
 ### Alexander Grueneberg
+
+<img src="images/team/alexander-grueneberg.jpg">
 
 - Title: Programmer
 - Email: gruenebe@msu.edu
@@ -58,6 +64,8 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 ### Ana I. Vazquez
 
+<img src="images/team/ana-vazquez.jpg">
+
 - Title: Assistant Professor
 - Email: avazquez@msu.edu
 - Areas of Interest: Statistical Genetics, Animal Breeding, Software Development
@@ -66,11 +74,15 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 ### Anirban Samaddar
 
+<img src="images/team/anirban-samaddar.jpg">
+
 - Title: PhD Student
 - Email: samadda1@msu.edu
 - Areas of Interest: Bayesian Statistics, Time Series, Statistical Genetics
 
 ### Fernando Aguate
+
+<img src="images/team/fernando-aguate.png">
 
 - Title: Postdoc
 - Email: fmaguate@gmail.com
@@ -80,11 +92,15 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 ### Filipe Couto
 
+<img src="images/team/filipe-couto.jpg">
+
 - Title: Postdoc
 - Email: coutoal1@msu.edu
 - Areas of Interest: Biostatistics, plant Breeding, genome-wide association studies and prediction of complex traits in plants
 
 ### Gabriel Rovere
+
+<img src="images/team/gabriel-rovere.jpg">
 
 - Title: Postdoc
 - Email: roverega@msu.edu
@@ -92,11 +108,15 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 ### Guanqi Lu
 
+<img src="images/team/guanqi-lu.jpg">
+
 - Title: PhD Student
 - Email: luguanqi@msu.edu
 - Areas of Interest: Statistical Genetics, Biostatistics
 
 ### Gustavo de los Campos
+
+<img src="images/team/gustavo-de-los-campos.jpg">
 
 - Title: Associate Professor
 - Email: gdeloscampos@gmail.com
@@ -106,17 +126,23 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 ### Harold Wu
 
+<img src="images/team/harold-wu.jpg">
+
 - Title: PhD Student
 - Email: wuhao12@msu.edu
 - Areas of Interest: Statistical Genetics, Statistical Modeling, Clinical Trials
 
 ### Marco López-Cruz
 
+<img src="images/team/marco-lópez-cruz.jpg">
+
 - Title: PhD Student
 - Email: malctony@hotmail.com
 - Areas of Interest: Biostatistics, Statistical Genetics, Plant Breeding
 
 ### Paulino Pérez
+
+<img src="images/team/paulino-pérez.jpg">
 
 - Title: Associate Professor
 - Email: perpdgo@gmail.com
@@ -129,6 +155,8 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 ### C. Austin Pickens
 
+<img src="images/team/austin-pickens.jpg">
+
 - Title: Doctoral Candidate
 - Email: picken21@anr.msu.edu
 - Areas of Interest: Novel biomarker discovery using mass spectrometry-based lipidomics and disease prediction
@@ -136,11 +164,15 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 ### Deniz Akdemir
 
+<img src="images/team/deniz-akdemir.jpg">
+
 - Title: Postdoc
 - Email: deniz.akdemir.work@gmail.com
 - Areas of Interest: Data Mining, Multivariate Statistics, Statistical Genetics, Animal and Plant Breeding
 
 ### Felix Enciso
+
+<img src="images/team/felix-enciso.jpg">
 
 - Title: PhD Candidate
 - Email: encisofe@msu.edu
@@ -149,11 +181,15 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 ### Hank Wu
 
+<img src="images/team/hank-wu.jpg">
+
 - Title: Master Student
 - Email: wukuanha@msu.edu
 - Areas of Interest: Biostatistics
 
 ### Hwasoon Kim
+
+<img src="images/team/hwasoon-kim.jpg">
 
 - Title: Postdoc
 - Email: kimhwaso@msu.edu
@@ -162,11 +198,15 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 ### Lian Lian
 
+<img src="images/team/lian-lian.jpg">
+
 - Title: Postdoc
 - Email: lianl0501@gmail.com
 - Areas of Interest: Statistical Genetics, Plant Breeding
 
 ### Mengying Sun
+
+<img src="images/team/mengying-sun.jpg">
 
 - Title: Research Assistant
 - Email: msun@epi.msu.edu
@@ -175,22 +215,30 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 ### Michael P. Behring
 
+<img src="images/team/michael-behring.jpg">
+
 - Title: PhD Candidate
 - Email: behringm@uab.edu
 - Areas of Interest: Epidemiology, Genetics of Cancer
 
 ### Paige Duren
 
+<img src="images/team/paige-duren.jpg">
+
 - Email: durenpai@msu.edu
 - Areas of Interest: Nursing
 
 ### Raka Mandal
+
+<img src="images/team/raka-mandal.jpg">
 
 - Title: PhD Student
 - Email: mandalr1@msu.edu
 - Areas of Interest: Biostatistics, Statistical Learning, Bayesian Statistics
 
 ### Scott Funkhouser
+
+<img src="images/team/scott-funkhouser.jpg">
 
 - Title: PhD Student
 - Email: sfunkhouser@gmail.com
@@ -200,11 +248,15 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 ### Shyamali Mukerjee
 
+<img src="images/team/shyamali-mukerjee.jpg">
+
 - Title: Master Student
 - Email: smukerjee@epi.msu.edu
 - Areas of Interest: Statistical Genetics, Application of Statistical Methods to Public Health Issues
 
 ### Siddharth Avadhanam
+
+<img src="images/team/siddharth-avadhanam.jpg">
 
 - Title: Master Student
 - Email: avadhana@msu.edu
@@ -212,12 +264,16 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 ### Yeni Liliana Bernal Rubio
 
+<img src="images/team/yeni-liliana-bernal-rubio.jpg">
+
 - Title: Postdoc
 - Email: ylbernal@msu.edu
 - Areas of Interest: Statistical Genetics, Genomic Evaluation Complex Traits, Software Development
 - Software: [Meta-Analysis GWA from GBLUP](http://tinyurl.com/BLUPMA), [GWA from GBLUP models](https://github.com/steibelj/gwaR)
 
 ### Yogasudha Veturi
+
+<img src="images/team/yogasudha-veturi.jpg">
 
 - Title: PhD Candidate
 - Email: sudhaveturi@gmail.com
@@ -230,6 +286,8 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 #### Cecilia Salvoro
 
+<img src="images/team/cecilia-salvoro.jpg">
+
 - Email: cecilia.salvoro@gmail.com
 - Affiliation: Department of Biology, University of Padova, Padova, Italy
 - Areas of Interest: Human Genetics, Next-generation Sequencing, Genetic Mapping of Diseases, Prediction of Eye Color
@@ -237,12 +295,16 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 #### Maria Martinez Castillero
 
+<img src="images/team/maria-martinez-castillero.jpg">
+
 - Email: mmartinezcastillero@gmail.com
 - Affiliation: University of Padova (Italy)
 - Areas of Interest: Quantitative genetics, programming, animal science
 - Links: [LinkedIn](https://www.linkedin.com/in/mmartinezcastillero)
 
 #### Pernille Bjarup Hansen
+
+<img src="images/team/pernille-bjarup-hansen.jpg">
 
 - Email: pernille.bjarup@mbg.au.dk
 - Affiliation: Department of Molecular Biology and Genetics, Aarhus University, Flakkebjerg, Denmark
@@ -252,6 +314,8 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 #### Muhammad Yasir Nawaz
 
+<img src="images/team/muhammad-yasir-nawaz.jpg">
+
 - Email: nawazmuh@msu.edu
 - Areas of Interest: Genomic prediction, Livestock breeding, Application of statistical methods to public and animal health issues
 
@@ -259,11 +323,15 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 #### Hugo O. Toledo Alvarado
 
+<img src="images/team/hugo-toledo-alvarado.jpg">
+
 - Email: h.toledo.a@gmail.com
 - Affiliation: Università degli studi di Padova (Italy)
 - Project: The use of Fourier-Transform Infrared (FTIR) Spectra as an innovative tool for predicting fertility traits in dairy cattle
 
 #### M. Angeles Pérez-Cabal
+
+<img src="images/team/marigel-angeles-pérez-cabal.jpg">
 
 - Email: mapcabal@vet.ucm.es
 - Affiliation: Complutense of University of Madrid (Spain)
@@ -272,6 +340,8 @@ Our group is interested in the analysis and prediction of complex traits and dis
 ### 2015
 
 #### Juan Pablo Gutierrez Garcia
+
+<img src="images/team/juan-pablo-gutierrez-garcia.jpg">
 
 - Email: gutgar@ucm.es
 - Affiliation: Complutense of University of Madrid (Spain)
@@ -282,12 +352,16 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 #### Christina Lehermeier
 
+<img src="images/team/christina-lehermeier.jpg">
+
 - Email: christina.lehermeier@tum.de
 - Affiliation: Plant Breeding, Technische Universität München (Germany)
 - Areas of Interest: Statistics, Quantitative Genetics, Plant Breeding
 - Links: [Google Scholar](https://scholar.google.de/citations?user=YhpaEaYAAAAJ), [TUM Plant Breeding](https://www.plantbreeding.wzw.tum.de/en/startseite/)
 
 #### Swetlana Berger
+
+<img src="images/team/swetlana-berger.jpg">
 
 - Email: swmiller@gwdg.de
 - Affiliation: Georg-August-Universität Göttingen (Germany)
