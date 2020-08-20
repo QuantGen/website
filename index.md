@@ -18,15 +18,15 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 ## Software
 
-**BGLR**. The Bayesian Generalized Linear Regression R package implements a variety of shrinkage and variable selection methods. The package can be used with whole-genome data (e.g., SNPs, gene expression or other omics), pedigrees and non-genetic covariates, including high-dimensional environmental data. <a href="https://www.genetics.org/content/198/2/483" class="badge badge-light">Article</a> <a href="https://CRAN.R-project.org/package=BGLR" class="badge badge-light">CRAN</a> <a href="https://github.com/gdlc/BGLR-R" class="badge badge-light">Source Code</a>
+**BGLR**. The Bayesian Generalized Linear Regression R package implements a variety of shrinkage and variable selection methods. The package can be used with whole-genome data (e.g., SNPs, gene expression or other omics), pedigrees and non-genetic covariates, including high-dimensional environmental data. \[[Article](https://www.genetics.org/content/198/2/483)\] \[[CRAN](https://CRAN.R-project.org/package=BGLR)\] \[[Source Code](https://github.com/gdlc/BGLR-R)\]
 
-**BGData**. A suite of R packages to enable analysis of extremely large genomic data sets (potentially millions of individuals and millions of molecular markers). <a href="https://www.g3journal.org/content/9/5/1377" class="badge badge-light">Article</a> <a href="https://cran.r-project.org/package=BGData" class="badge badge-light">CRAN</a> <a href="https://github.com/quantgen/BGData" class="badge badge-light">Source Code</a>
+**BGData**. A suite of R packages to enable analysis of extremely large genomic data sets (potentially millions of individuals and millions of molecular markers). \[[Article](https://www.g3journal.org/content/9/5/1377)\] \[[CRAN](https://cran.r-project.org/package=BGData)\] \[[Source Code](https://github.com/quantgen/BGData)\]
 
-**pedigreemm**. An R package for analysis of complex traits and diseases using generalized linear mixed models using likelihood methods. <a href="https://pubmed.ncbi.nlm.nih.gov/19820058/" class="badge badge-light">Article</a> <a href="https://cran.r-project.org/web/packages/pedigreemm/pedigreemm.pdf" class="badge badge-light">Documentation</a> <a href="https://cran.r-project.org/package=pedigreemm" class="badge badge-light">CRAN</a>
+**pedigreemm**. An R package for analysis of complex traits and diseases using generalized linear mixed models using likelihood methods. \[[Article](https://pubmed.ncbi.nlm.nih.gov/19820058/)\] \[[Documentation](https://cran.r-project.org/web/packages/pedigreemm/pedigreemm.pdf)\] \[[CRAN](https://cran.r-project.org/package=pedigreemm)\]
 
-**pedigreeR**. R functions related to pedigrees. <a href="https://github.com/Rpedigree/pedigreeR" class="badge badge-light">Source Code</a>
+**pedigreeR**. R functions related to pedigrees. \[[Source Code](https://github.com/Rpedigree/pedigreeR)\]
 
-**MTM**. Implements a Bayesian Multi-Trait Gaussian models with user defined-(co)variance structures. <a href="https://github.com/QuantGen/MTM/wiki" class="badge badge-light">Documentation</a> <a href="https://github.com/QuantGen/MTM" class="badge badge-light">Source Code</a>
+**MTM**. Implements a Bayesian Multi-Trait Gaussian models with user defined-(co)variance structures. \[[Documentation](https://github.com/QuantGen/MTM/wiki)\] \[[Source Code](https://github.com/QuantGen/MTM)\]
 
 
 ## Activities
