@@ -1,6 +1,13 @@
 ---
 ---
 
+$header-bg-color: #18453b !default;
+$header-bg-color-secondary: #265c50 !default;
+
+$section-headings-color: #212529 !default;
+$body-text-color: #212529 !default;
+$body-link-color: #26835f !default;
+
 @import "{{ site.theme }}";
 
 .team-picture {
