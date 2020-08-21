@@ -38,7 +38,7 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 ### Agustín González Reymúndez
 
-<img src="images/team/agustín-gonzález-reymúndez.jpg" class="team-picture">
+<img src="images/team/agustín-gonzález-reymúndez.jpg" class="float-left w-25 mr-4 rounded">
 
 - Title: PhD Student
 - Email: [agugonrey@gmail.com](mailto:agugonrey@gmail.com)
@@ -48,7 +48,7 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 ### Alexa Lupi
 
-<img src="images/team/alexa-lupi.jpg" class="team-picture">
+<img src="images/team/alexa-lupi.jpg" class="float-left w-25 mr-4 rounded">
 
 - Title: PhD Student
 - Email: [lupialex@msu.edu](mailto:lupialex@msu.edu)
@@ -58,7 +58,7 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 ### Alexander Grueneberg
 
-<img src="images/team/alexander-grueneberg.jpg" class="team-picture">
+<img src="images/team/alexander-grueneberg.jpg" class="float-left w-25 mr-4 rounded">
 
 - Title: Programmer
 - Email: [gruenebe@msu.edu](mailto:gruenebe@msu.edu)
@@ -70,7 +70,7 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 ### Ana I. Vazquez
 
-<img src="images/team/ana-vazquez.jpg" class="team-picture">
+<img src="images/team/ana-vazquez.jpg" class="float-left w-25 mr-4 rounded">
 
 - Title: Assistant Professor
 - Email: [avazquez@msu.edu](mailto:avazquez@msu.edu)
@@ -82,7 +82,7 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 ### Anirban Samaddar
 
-<img src="images/team/anirban-samaddar.jpg" class="team-picture">
+<img src="images/team/anirban-samaddar.jpg" class="float-left w-25 mr-4 rounded">
 
 - Title: PhD Student
 - Email: [samadda1@msu.edu](mailto:samadda1@msu.edu)
@@ -92,7 +92,7 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 ### Fernando Aguate
 
-<img src="images/team/fernando-aguate.png" class="team-picture">
+<img src="images/team/fernando-aguate.png" class="float-left w-25 mr-4 rounded">
 
 - Title: Postdoc
 - Email: [fmaguate@gmail.com](mailto:fmaguate@gmail.com)
@@ -104,7 +104,7 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 ### Filipe Couto
 
-<img src="images/team/filipe-couto.jpg" class="team-picture">
+<img src="images/team/filipe-couto.jpg" class="float-left w-25 mr-4 rounded">
 
 - Title: Postdoc
 - Email: [coutoal1@msu.edu](mailto:coutoal1@msu.edu)
@@ -114,7 +114,7 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 ### Gabriel Rovere
 
-<img src="images/team/gabriel-rovere.jpg" class="team-picture">
+<img src="images/team/gabriel-rovere.jpg" class="float-left w-25 mr-4 rounded">
 
 - Title: Postdoc
 - Email: [roverega@msu.edu](mailto:roverega@msu.edu)
@@ -124,7 +124,7 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 ### Guanqi Lu
 
-<img src="images/team/guanqi-lu.jpg" class="team-picture">
+<img src="images/team/guanqi-lu.jpg" class="float-left w-25 mr-4 rounded">
 
 - Title: PhD Student
 - Email: [luguanqi@msu.edu](mailto:luguanqi@msu.edu)
@@ -134,7 +134,7 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 ### Gustavo de los Campos
 
-<img src="images/team/gustavo-de-los-campos.jpg" class="team-picture">
+<img src="images/team/gustavo-de-los-campos.jpg" class="float-left w-25 mr-4 rounded">
 
 - Title: Associate Professor
 - Email: [gdeloscampos@gmail.com](mailto:gdeloscampos@gmail.com)
@@ -146,7 +146,7 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 ### Harold Wu
 
-<img src="images/team/harold-wu.jpg" class="team-picture">
+<img src="images/team/harold-wu.jpg" class="float-left w-25 mr-4 rounded">
 
 - Title: PhD Student
 - Email: [wuhao12@msu.edu](mailto:wuhao12@msu.edu)
@@ -156,7 +156,7 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 ### Marco López-Cruz
 
-<img src="images/team/marco-lópez-cruz.jpg" class="team-picture">
+<img src="images/team/marco-lópez-cruz.jpg" class="float-left w-25 mr-4 rounded">
 
 - Title: PhD Student
 - Email: [malctony@hotmail.com](mailto:malctony@hotmail.com)
@@ -166,7 +166,7 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 ### Paulino Pérez
 
-<img src="images/team/paulino-pérez.jpg" class="team-picture">
+<img src="images/team/paulino-pérez.jpg" class="float-left w-25 mr-4 rounded">
 
 - Title: Associate Professor
 - Email: [perpdgo@gmail.com](mailto:perpdgo@gmail.com)
@@ -181,7 +181,7 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 ### C. Austin Pickens
 
-<img src="images/team/austin-pickens.jpg" class="team-picture">
+<img src="images/team/austin-pickens.jpg" class="float-left w-25 mr-4 rounded">
 
 - Title: Doctoral Candidate
 - Email: [picken21@anr.msu.edu](mailto:picken21@anr.msu.edu)
@@ -192,7 +192,7 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 ### Deniz Akdemir
 
-<img src="images/team/deniz-akdemir.jpg" class="team-picture">
+<img src="images/team/deniz-akdemir.jpg" class="float-left w-25 mr-4 rounded">
 
 - Title: Postdoc
 - Email: [deniz.akdemir.work@gmail.com](mailto:deniz.akdemir.work@gmail.com)
@@ -202,7 +202,7 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 ### Felix Enciso
 
-<img src="images/team/felix-enciso.jpg" class="team-picture">
+<img src="images/team/felix-enciso.jpg" class="float-left w-25 mr-4 rounded">
 
 - Title: PhD Candidate
 - Email: [encisofe@msu.edu](mailto:encisofe@msu.edu)
@@ -213,7 +213,7 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 ### Hank Wu
 
-<img src="images/team/hank-wu.jpg" class="team-picture">
+<img src="images/team/hank-wu.jpg" class="float-left w-25 mr-4 rounded">
 
 - Title: Master Student
 - Email: [wukuanha@msu.edu](mailto:wukuanha@msu.edu)
@@ -223,7 +223,7 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 ### Hwasoon Kim
 
-<img src="images/team/hwasoon-kim.jpg" class="team-picture">
+<img src="images/team/hwasoon-kim.jpg" class="float-left w-25 mr-4 rounded">
 
 - Title: Postdoc
 - Email: [kimhwaso@msu.edu](mailto:kimhwaso@msu.edu)
@@ -234,7 +234,7 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 ### Lian Lian
 
-<img src="images/team/lian-lian.jpg" class="team-picture">
+<img src="images/team/lian-lian.jpg" class="float-left w-25 mr-4 rounded">
 
 - Title: Postdoc
 - Email: [lianl0501@gmail.com](mailto:lianl0501@gmail.com)
@@ -244,7 +244,7 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 ### Mengying Sun
 
-<img src="images/team/mengying-sun.jpg" class="team-picture">
+<img src="images/team/mengying-sun.jpg" class="float-left w-25 mr-4 rounded">
 
 - Title: Research Assistant
 - Email: [msun@epi.msu.edu](mailto:msun@epi.msu.edu)
@@ -255,7 +255,7 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 ### Michael P. Behring
 
-<img src="images/team/michael-behring.jpg" class="team-picture">
+<img src="images/team/michael-behring.jpg" class="float-left w-25 mr-4 rounded">
 
 - Title: PhD Candidate
 - Email: [behringm@uab.edu](mailto:behringm@uab.edu)
@@ -265,7 +265,7 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 ### Paige Duren
 
-<img src="images/team/paige-duren.jpg" class="team-picture">
+<img src="images/team/paige-duren.jpg" class="float-left w-25 mr-4 rounded">
 
 - Email: [durenpai@msu.edu](mailto:durenpai@msu.edu)
 - Areas of Interest: Nursing
@@ -274,7 +274,7 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 ### Raka Mandal
 
-<img src="images/team/raka-mandal.jpg" class="team-picture">
+<img src="images/team/raka-mandal.jpg" class="float-left w-25 mr-4 rounded">
 
 - Title: PhD Student
 - Email: [mandalr1@msu.edu](mailto:mandalr1@msu.edu)
@@ -284,7 +284,7 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 ### Scott Funkhouser
 
-<img src="images/team/scott-funkhouser.jpg" class="team-picture">
+<img src="images/team/scott-funkhouser.jpg" class="float-left w-25 mr-4 rounded">
 
 - Title: PhD Student
 - Email: [sfunkhouser@gmail.com](mailto:sfunkhouser@gmail.com)
@@ -296,7 +296,7 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 ### Shyamali Mukerjee
 
-<img src="images/team/shyamali-mukerjee.jpg" class="team-picture">
+<img src="images/team/shyamali-mukerjee.jpg" class="float-left w-25 mr-4 rounded">
 
 - Title: Master Student
 - Email: [smukerjee@epi.msu.edu](mailto:smukerjee@epi.msu.edu)
@@ -306,7 +306,7 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 ### Siddharth Avadhanam
 
-<img src="images/team/siddharth-avadhanam.jpg" class="team-picture">
+<img src="images/team/siddharth-avadhanam.jpg" class="float-left w-25 mr-4 rounded">
 
 - Title: Master Student
 - Email: [avadhana@msu.edu](mailto:avadhana@msu.edu)
@@ -316,7 +316,7 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 ### Yeni Liliana Bernal Rubio
 
-<img src="images/team/yeni-liliana-bernal-rubio.jpg" class="team-picture">
+<img src="images/team/yeni-liliana-bernal-rubio.jpg" class="float-left w-25 mr-4 rounded">
 
 - Title: Postdoc
 - Email: [ylbernal@msu.edu](mailto:ylbernal@msu.edu)
@@ -327,7 +327,7 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 ### Yogasudha Veturi
 
-<img src="images/team/yogasudha-veturi.jpg" class="team-picture">
+<img src="images/team/yogasudha-veturi.jpg" class="float-left w-25 mr-4 rounded">
 
 - Title: PhD Candidate
 - Email: [sudhaveturi@gmail.com](mailto:sudhaveturi@gmail.com)
@@ -342,7 +342,7 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 #### Cecilia Salvoro
 
-<img src="images/team/cecilia-salvoro.jpg" class="team-picture">
+<img src="images/team/cecilia-salvoro.jpg" class="float-left w-25 mr-4 rounded">
 
 - Email: [cecilia.salvoro@gmail.com](mailto:cecilia.salvoro@gmail.com)
 - Affiliation: Department of Biology, University of Padova, Padova, Italy
@@ -353,7 +353,7 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 #### Maria Martinez Castillero
 
-<img src="images/team/maria-martinez-castillero.jpg" class="team-picture">
+<img src="images/team/maria-martinez-castillero.jpg" class="float-left w-25 mr-4 rounded">
 
 - Email: [mmartinezcastillero@gmail.com](mailto:mmartinezcastillero@gmail.com)
 - Affiliation: University of Padova (Italy)
@@ -364,7 +364,7 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 #### Pernille Bjarup Hansen
 
-<img src="images/team/pernille-bjarup-hansen.jpg" class="team-picture">
+<img src="images/team/pernille-bjarup-hansen.jpg" class="float-left w-25 mr-4 rounded">
 
 - Email: [pernille.bjarup@mbg.au.dk](mailto:pernille.bjarup@mbg.au.dk)
 - Affiliation: Department of Molecular Biology and Genetics, Aarhus University, Flakkebjerg, Denmark
@@ -376,7 +376,7 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 #### Muhammad Yasir Nawaz
 
-<img src="images/team/muhammad-yasir-nawaz.jpg" class="team-picture">
+<img src="images/team/muhammad-yasir-nawaz.jpg" class="float-left w-25 mr-4 rounded">
 
 - Email: [nawazmuh@msu.edu](mailto:nawazmuh@msu.edu)
 - Areas of Interest: Genomic prediction, Livestock breeding, Application of statistical methods to public and animal health issues
@@ -387,7 +387,7 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 #### Hugo O. Toledo Alvarado
 
-<img src="images/team/hugo-toledo-alvarado.jpg" class="team-picture">
+<img src="images/team/hugo-toledo-alvarado.jpg" class="float-left w-25 mr-4 rounded">
 
 - Email: [h.toledo.a@gmail.com](mailto:h.toledo.a@gmail.com)
 - Affiliation: Università degli studi di Padova (Italy)
@@ -397,7 +397,7 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 #### M. Angeles Pérez-Cabal
 
-<img src="images/team/marigel-angeles-pérez-cabal.jpg" class="team-picture">
+<img src="images/team/marigel-angeles-pérez-cabal.jpg" class="float-left w-25 mr-4 rounded">
 
 - Email: [mapcabal@vet.ucm.es](mailto:mapcabal@vet.ucm.es)
 - Affiliation: Complutense of University of Madrid (Spain)
@@ -409,7 +409,7 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 #### Juan Pablo Gutierrez Garcia
 
-<img src="images/team/juan-pablo-gutierrez-garcia.jpg" class="team-picture">
+<img src="images/team/juan-pablo-gutierrez-garcia.jpg" class="float-left w-25 mr-4 rounded">
 
 - Email: [gutgar@ucm.es](mailto:gutgar@ucm.es)
 - Affiliation: Complutense of University of Madrid (Spain)
@@ -422,7 +422,7 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 #### Christina Lehermeier
 
-<img src="images/team/christina-lehermeier.jpg" class="team-picture">
+<img src="images/team/christina-lehermeier.jpg" class="float-left w-25 mr-4 rounded">
 
 - Email: [christina.lehermeier@tum.de](mailto:christina.lehermeier@tum.de)
 - Affiliation: Plant Breeding, Technische Universität München (Germany)
@@ -433,7 +433,7 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 #### Swetlana Berger
 
-<img src="images/team/swetlana-berger.jpg" class="team-picture">
+<img src="images/team/swetlana-berger.jpg" class="float-left w-25 mr-4 rounded">
 
 - Email: [swmiller@gwdg.de](mailto:swmiller@gwdg.de)
 - Affiliation: Georg-August-Universität Göttingen (Germany)
