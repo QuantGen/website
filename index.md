@@ -314,6 +314,16 @@ Our group is interested in the analysis and prediction of complex traits and dis
 
 <div style="clear: left;"></div>
 
+### Wesley Bird
+
+<img src="images/team/wesley-bird.jpg" class="float-left w-25 mr-4 rounded">
+
+- Title: [REPID Scholar](https://repid.msu.edu)
+- Email: [birdwes1@msu.edu](mailto:birdwes1@msu.edu)
+- Areas of Interest: Medical Laboratory Science and Human Biology
+
+<div style="clear: left;"></div>
+
 ### Yeni Liliana Bernal Rubio
 
 <img src="images/team/yeni-liliana-bernal-rubio.jpg" class="float-left w-25 mr-4 rounded">
